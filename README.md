@@ -6,7 +6,10 @@
 🏅 CompTIA Security+ Certification (expires March 2028)<br>
 🎓 Software Development and Cybersecurity @ Marist College<br>
 📝 [Resume](https://github.com/jlmcdonough/jlmcdonough.github.io/blob/66133ea826507b1b0db44278b26cb97abf9351e6/files/josephmcdonough.pdf)
--------
+
+
+## 🚀 About Me
+
 My name is Joseph McDonough, and I'm a software engineer who is also CompTIA Security+ certified. Most of my
 professional experience is developing backend services in Java as well as Python for scripting and jobs. I have a
 passion for data and enjoy the process of receiving data and transforming it into something meaningful. And while it may
@@ -19,7 +22,6 @@ I have a desire to learn more and expand my horizons, making me open to just abo
 
 ## 🔧 Technologies & Tools
 
--------
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
@@ -42,7 +44,6 @@ I have a desire to learn more and expand my horizons, making me open to just abo
 
 ## 📷 Outside Interests
 
--------
 Spend most of my other time with soccer or motorsports. Both participating and watching! Can check out some of my photos from some races I've been to on 500px @[jmcdonough](https://500px.com/p/jmcdonough?view=galleries)
 
 Have been working on more photography stuff too, and I am trying to improve. Been able to shoot some events for family and friends recently.
@@ -51,7 +52,6 @@ Also playing video games like Counter-Strike where I recorded every game I playe
 
 ## 📫 Connect With Me
 
--------
 [![Gmail Badge](https://img.shields.io/badge/-josephlmcdonough@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josephlmcdonough@gmail.com?Subject=Hello)](mailto:josephlmcdonough@gmail.com?Subject=Hello)
 
 ![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)
