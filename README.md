@@ -54,7 +54,6 @@ Also playing video games like Counter-Strike where I recorded every game I playe
 
 [![Gmail Badge](https://img.shields.io/badge/-josephlmcdonough@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josephlmcdonough@gmail.com?Subject=Hello)](mailto:josephlmcdonough@gmail.com?Subject=Hello)
 
-![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)
-
+[![LinkedIn Badge](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/josephl-mcdonough/)
 
 ![europaLeague2025](media/sonEuropa.gif)
