@@ -16,7 +16,7 @@ not always be worth it, I do enjoy automation. Spending hours to save a couple s
 Designing and implementing CI/CD pipelines that then require minimal effort and automated test suites with alerting
 were some of my favorite professional projects.
 
-Currently looking a Platform Engineer @ Colgate-Palmolive!
+Currently a Platform Engineer @ Colgate-Palmolive!
 
 ## 🧰 Technologies & Tools
 
