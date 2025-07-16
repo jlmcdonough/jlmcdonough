@@ -1,8 +1,7 @@
 # Hello! ![lando norris waving](media/norrisWave.gif)
 
 📍 New Jersey<br>
-⏳ Looking for a new opportunities<br>
-💼 Previously Software Engineer @ Concourse Labs and Fortinet<br>
+💼 Platform Engineer @ Colgate-Palmolive<br>
 🏅 CompTIA Security+ Certification (expires March 2028)<br>
 🎓 Software Development and Cybersecurity @ Marist College<br>
 📝 [Resume](https://github.com/jlmcdonough/jlmcdonough.github.io/blob/66133ea826507b1b0db44278b26cb97abf9351e6/files/josephmcdonough.pdf)
@@ -17,8 +16,7 @@ not always be worth it, I do enjoy automation. Spending hours to save a couple s
 Designing and implementing CI/CD pipelines that then require minimal effort and automated test suites with alerting
 were some of my favorite professional projects.
 
-Currently looking for new job opportunities to grow as a person and a professional. While my experience lies in backend,
-I have a desire to learn more and expand my horizons, making me open to just about anything.
+Currently looking a Platform Engineer @ Colgate-Palmolive!
 
 ## 🧰 Technologies & Tools
 
