@@ -22,6 +22,7 @@ Currently a Platform Engineer @ Colgate-Palmolive!
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
@@ -33,6 +34,7 @@ Currently a Platform Engineer @ Colgate-Palmolive!
 [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
 [![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)](#)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 [![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#)
@@ -42,6 +44,29 @@ Currently a Platform Engineer @ Colgate-Palmolive!
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 
 ## 🛠️ Projects
+
+### 💬 [actions-pr-comment](https://github.com/colpal/actions-pr-comment) - a GitHub action for better pull requests comments 
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
+
+I designed and developed actions-pr-comment to solve a recurring CI/CD pain point at Colgate-Palmolive. Validation 
+workflows tend to leave pull request comments notifying the developer of the status. And when new commits were pushed, 
+these validations are rerun and generate new comments, causing the pull request to become cluttered with redundant 
+comments, making it difficult to track status and get the most up-to-date information easily. I built this action to 
+streamline automated feedback through dynamic comment management.
+
+This tool provides developers with granular control over comment lifecycles, supporting modes to replace, append, or 
+hide comments based on workflow outcomes. It accepts both raw string inputs and Markdown file injection, offering 
+flexibility for diverse project needs. To ensure production-grade reliability, I implemented a robust suite of Jest 
+unit tests and prioritized high code coverage.
+
+After successfully integrating the tool into internal workflows and gathering positive feedback from my team, we 
+identified an opportunity to share this solution with the broader developer community. With their support and guidance, 
+I successfully licensed and published actions-pr-comment as my first open-source project, where it now serves as a 
+scalable solution for teams struggling with PR noise. For those interested in following the project or reading more 
+about it, I also wrote a [very detailed README](https://github.com/colpal/actions-pr-comment#actions-pr-comment) 
+documenting all the features, acceptable inputs, use cases, and even some examples with gifs.
 
 ### 🎵 [Rhythmic Radiance](https://github.com/Kuneho-Studios/beatmap-devtool) - a beatmap developer tool for our multi-lane rhythm game 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
