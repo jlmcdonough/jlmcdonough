@@ -4,7 +4,7 @@
 💼 Platform Engineer @ Colgate-Palmolive<br>
 🏅 CompTIA Security+ Certification (expires March 2028)<br>
 🎓 Software Development and Cybersecurity @ Marist College<br>
-📝 [Resume](https://github.com/jlmcdonough/jlmcdonough.github.io/blob/66133ea826507b1b0db44278b26cb97abf9351e6/files/josephmcdonough.pdf)
+📝 [Resume](https://github.com/jlmcdonough/jlmcdonough.github.io/blob/2a2a49e731aca1cd4b9b7a1531b9513b04f03343/files/josephmcdonough.pdf)
 
 
 ## 🚀 About Me
