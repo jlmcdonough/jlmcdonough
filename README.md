@@ -1,4 +1,4 @@
-# Hello! ![lando norris waving](media/norrisWave.gif)
+.# Hello! ![lando norris waving](media/norrisWave.gif)
 
 📍 New Jersey<br>
 💼 Platform Engineer @ Colgate-Palmolive<br>
@@ -52,9 +52,9 @@ Currently a Platform Engineer @ Colgate-Palmolive!
 
 I designed and developed actions-pr-comment to solve a recurring CI/CD pain point at Colgate-Palmolive. Validation 
 workflows tend to leave pull request comments notifying the developer of the status. And when new commits were pushed, 
-these validations are rerun and generate new comments, causing the pull request to become cluttered with redundant 
-comments, making it difficult to track status and get the most up-to-date information easily. I built this action to 
-streamline automated feedback through dynamic comment management.
+these validations are rerun and new comments generated, causing the pull request to become cluttered. Most of these comments
+tended to be redundant or just general bloat. I built this action to reduce noise and make getting the most up-to-date information 
+easier and more streamlined through dynamic comment management.
 
 This tool provides developers with granular control over comment lifecycles, supporting modes to replace, append, or 
 hide comments based on workflow outcomes. It accepts both raw string inputs and Markdown file injection, offering 
