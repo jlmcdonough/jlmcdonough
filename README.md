@@ -1,4 +1,4 @@
-.# Hello! ![lando norris waving](media/norrisWave.gif)
+# Hello! ![lando norris waving](media/norrisWave.gif)
 
 📍 New Jersey<br>
 💼 Platform Engineer @ Colgate-Palmolive<br>
